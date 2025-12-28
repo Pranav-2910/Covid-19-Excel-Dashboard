@@ -68,5 +68,3 @@ The goal of this project is to support **healthcare data analysis** by:
 - Demonstrates real-world **data analyst workflow using Excel**
 
 --- 
-Aspiring Data Analyst  
-Skills: Excel | SQL | Python | Power BI | Data Analytics
