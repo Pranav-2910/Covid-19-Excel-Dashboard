@@ -1,76 +1,72 @@
-🦠 COVID-19 Patient Analysis Dashboard | Advanced Excel Data Analytics Project
-📌 Project Summary
+# 🦠 COVID-19 Patient Analysis Dashboard | Advanced Excel Data Analytics Project
 
-This project is an end-to-end COVID-19 data analysis dashboard developed using Advanced Microsoft Excel. It demonstrates practical data analytics, data cleaning, exploratory data analysis (EDA), and data visualization skills by converting raw COVID patient data into actionable insights through an interactive dashboard.
+## 📌 Project Summary
+This project is an **end-to-end COVID-19 data analysis dashboard** developed using **Advanced Microsoft Excel**. It demonstrates practical **data analytics, data cleaning, exploratory data analysis (EDA), and data visualization** skills by transforming raw COVID patient data into actionable insights through an interactive dashboard.
 
-🎯 Business Objective
+---
 
-The goal of this project is to support healthcare data analysis by:
+## 🎯 Business Objective
+The goal of this project is to support **healthcare data analysis** by:
 
-Identifying COVID positivity trends
+- Identifying **COVID positivity trends**
+- Analyzing patient data by **age group, gender, city, and symptoms**
+- Highlighting **high-risk population segments**
+- Enabling **data-driven decision making** using Excel dashboards
 
-Analyzing patient data by age group, gender, city, and symptoms
+---
 
-Highlighting high-risk population segments
+## 🧰 Tools, Skills & Technologies
+- **Microsoft Excel**
+- **Advanced Excel Functions**
+- **Pivot Tables & Pivot Charts**
+- **Power Query (ETL & Data Cleaning)**
+- **Exploratory Data Analysis (EDA)**
+- **Data Visualization & Dashboarding**
+- **Slicers, Filters & Interactive Controls**
+- **Descriptive Analytics**
 
-Enabling data-driven decision making using Excel dashboards
+---
 
-🧰 Tools, Skills & Technologies
+## 📊 Dashboard Components & Analysis
 
-Microsoft Excel
+### 🔹 Key Performance Indicators (KPIs)
+- Total Patients  
+- Total COVID Positive Cases  
+- Total COVID Negative Cases  
+- COVID Positivity Rate (%)  
 
-Advanced Excel Functions
+---
 
-Pivot Tables & Pivot Charts
+### 🔹 Analytical Views
+- COVID cases by **Age Group**
+- COVID positivity by **Gender**
+- **City-wise** case distribution
+- Fever severity vs COVID result
+- Age group vs cough severity analysis
+- Symptoms vs COVID positivity correlation
 
-Power Query (ETL & Data Cleaning)
+---
 
-Exploratory Data Analysis (EDA)
+### 🔹 Interactivity
+- Dynamic slicers for **City, Age Group, and Gender**
+- User-driven filtering for focused analysis
 
-Data Visualization & Dashboarding
+---
 
-Slicers, Filters & Interactive Controls
+## 🧠 Key Analytical Insights
+- **Senior citizens** exhibit the highest COVID positivity rate, indicating increased health risk.
+- Patients with **high fever and strong cough symptoms** show a significantly higher likelihood of testing positive.
+- **Adults and seniors** together account for the majority of positive cases.
+- City-level analysis reveals **uneven regional distribution** of COVID cases.
 
-Descriptive Analytics
+---
 
-📊 Dashboard Components & Analysis
+## ⭐ Project Highlights
+- End-to-end Excel-based data analytics project
+- Strong focus on healthcare analytics
+- Interactive and user-friendly dashboard design
+- Demonstrates real-world **data analyst workflow using Excel**
 
-Key Performance Indicators (KPIs)
-
-Total Patients
-
-Total COVID Positive Cases
-
-Total COVID Negative Cases
-
-COVID Positivity Rate (%)
-
-Analytical Views
-
-COVID cases by Age Group
-
-COVID positivity by Gender
-
-City-wise case distribution
-
-Fever severity vs COVID result
-
-Age group vs cough severity analysis
-
-Symptoms vs COVID positivity correlation
-
-Interactivity
-
-Dynamic slicers for City, Age Group, and Gender
-
-User-driven filtering for focused analysis
-
-🧠 Key Analytical Insights
-
-Senior citizens exhibit the highest COVID positivity rate, indicating increased health risk.
-
-Patients with high fever and strong cough symptoms show a significantly higher likelihood of testing positive.
-
-Adults and seniors together account for the majority of positive cases.
-
-City-level analysis reveals uneven regional distribution of cases.
+--- 
+Aspiring Data Analyst  
+Skills: Excel | SQL | Python | Power BI | Data Analytics
