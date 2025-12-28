@@ -51,7 +51,7 @@ The objective of this project is to support healthcare data analysis by:
 ## 🖼️ Dashboard Preview
 Below is a preview of the interactive Excel dashboard:
 
-![COVID-19 Patient Analysis Dashboard](dashboard/excel_dashboard.png)
+![COVID-19 Patient Analysis Dashboard](dashboard/covid_dashboard.png)
 
 ---
 
