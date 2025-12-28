@@ -1,29 +1,28 @@
 # 🦠 COVID-19 Patient Analysis Dashboard | Advanced Excel Data Analytics Project
 
 ## 📌 Project Summary
-This project is an **end-to-end COVID-19 data analysis dashboard** developed using **Advanced Microsoft Excel**. It demonstrates practical **data analytics, data cleaning, exploratory data analysis (EDA), and data visualization** skills by transforming raw COVID patient data into actionable insights through an interactive dashboard.
+This project is an end-to-end COVID-19 patient data analysis dashboard developed using Advanced Microsoft Excel. It demonstrates data cleaning, exploratory data analysis (EDA), and data visualization skills by transforming raw healthcare data into meaningful insights through an interactive Excel dashboard.
 
 ---
 
 ## 🎯 Business Objective
-The goal of this project is to support **healthcare data analysis** by:
-
-- Identifying **COVID positivity trends**
-- Analyzing patient data by **age group, gender, city, and symptoms**
-- Highlighting **high-risk population segments**
-- Enabling **data-driven decision making** using Excel dashboards
+The objective of this project is to support healthcare data analysis by:
+- Identifying COVID positivity trends
+- Analyzing patient data by age group, gender, city, and symptoms
+- Highlighting high-risk population segments
+- Enabling data-driven decision making using Excel dashboards
 
 ---
 
 ## 🧰 Tools, Skills & Technologies
-- **Microsoft Excel**
-- **Advanced Excel Functions**
-- **Pivot Tables & Pivot Charts**
-- **Power Query (ETL & Data Cleaning)**
-- **Exploratory Data Analysis (EDA)**
-- **Data Visualization & Dashboarding**
-- **Slicers, Filters & Interactive Controls**
-- **Descriptive Analytics**
+- Microsoft Excel
+- Advanced Excel Functions
+- Pivot Tables & Pivot Charts
+- Power Query (ETL & Data Cleaning)
+- Exploratory Data Analysis (EDA)
+- Data Visualization & Dashboarding
+- Slicers, Filters & Interactive Controls
+- Descriptive Analytics
 
 ---
 
@@ -35,43 +34,41 @@ The goal of this project is to support **healthcare data analysis** by:
 - Total COVID Negative Cases  
 - COVID Positivity Rate (%)  
 
----
-
 ### 🔹 Analytical Views
-- COVID cases by **Age Group**
-- COVID positivity by **Gender**
-- **City-wise** case distribution
+- COVID cases by Age Group
+- COVID positivity by Gender
+- City-wise case distribution
 - Fever severity vs COVID result
 - Age group vs cough severity analysis
 - Symptoms vs COVID positivity correlation
 
----
-
 ### 🔹 Interactivity
-- Dynamic slicers for **City, Age Group, and Gender**
+- Dynamic slicers for City, Age Group, and Gender
 - User-driven filtering for focused analysis
 
 ---
 
 ## 🖼️ Dashboard Preview
-Below is a snapshot of the **interactive Excel dashboard** showcasing KPIs, filters, and analytical visuals:
+Below is a preview of the interactive Excel dashboard:
 
-![COVID-19 Patient Analysis Dashboard]("C:\Users\prana\OneDrive\Desktop\DATA SCIENCE\Data Analyst Project\Excel\covid_dashboard.png")
+![COVID-19 Patient Analysis Dashboard](dashboard/excel_dashboard.png)
 
 ---
 
 ## 🧠 Key Analytical Insights
-- **Senior citizens** exhibit the highest COVID positivity rate, indicating increased health risk.
-- Patients with **high fever and strong cough symptoms** show a significantly higher likelihood of testing positive.
-- **Adults and seniors** together account for the majority of positive cases.
-- City-level analysis reveals **uneven regional distribution** of COVID cases.
+- Senior citizens show the highest COVID positivity rate, indicating increased health risk.
+- Patients with high fever and strong cough symptoms have a higher likelihood of testing positive.
+- Adults and seniors account for the majority of positive cases.
+- City-wise analysis highlights uneven regional distribution of COVID cases.
 
 ---
 
 ## ⭐ Project Highlights
 - End-to-end Excel-based data analytics project
-- Strong focus on healthcare analytics
-- Interactive and user-friendly dashboard design
-- Demonstrates real-world **data analyst workflow using Excel**
+- Healthcare-focused analytical insights
+- Interactive and professional dashboard design
+- Demonstrates real-world data analyst workflow using Excel
 
 ---
+Aspiring Data Analyst  
+Skills: Excel | SQL | Python | Power BI | Data Analytics
