@@ -56,7 +56,7 @@ The goal of this project is to support **healthcare data analysis** by:
 ## 🖼️ Dashboard Preview
 Below is a snapshot of the **interactive Excel dashboard** showcasing KPIs, filters, and analytical visuals:
 
-![COVID-19 Patient Analysis Dashboard]("C:\Users\prana\OneDrive\Desktop\DATA SCIENCE\Data Analyst Project\Excel\Excel Dashboard.png")
+![COVID-19 Patient Analysis Dashboard]("C:\Users\prana\OneDrive\Desktop\DATA SCIENCE\Data Analyst Project\Excel\covid_dashboard.png")
 
 ---
 
